@@ -1,0 +1,14 @@
+{
+  "name": "ai-updates",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily digest of AI updates relevant to applied scientists and practitioners",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-updates.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

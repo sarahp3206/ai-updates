@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Signal — AI updates for practitioners</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark">◆</span>
+        <div>
+          <h1>Signal</h1>
+          <p class="tagline">AI-world updates worth an applied scientist's attention</p>
+        </div>
+      </div>
+      <div class="meta" id="meta"></div>
+    </div>
+  </header>
+
+  <main>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search titles and summaries…" autocomplete="off" />
+      <div class="chip-row chip-row-primary" id="category-chips"></div>
+      <div class="chip-row" id="source-chips"></div>
+      <div class="chip-row" id="tag-chips"></div>
+    </div>
+
+    <div class="results-bar">
+      <span id="result-count"></span>
+      <button id="clear-filters" class="link-btn" hidden>Clear filters</button>
+    </div>
+
+    <div id="list" class="list"></div>
+    <div id="empty" class="empty" hidden>No updates match these filters.</div>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Sources: Hugging Face (trending models), OpenAI blog, Google DeepMind blog,
+      Hacker News (top AI stories). Refreshed on a schedule — see
+      <code>generatedAt</code> above.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
