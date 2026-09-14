@@ -170,7 +170,8 @@ async function fetchHackerNews() {
         source: "Hacker News",
         category: "news",
         date: hit.created_at ? new Date(hit.created_at).toISOString() : null,
-        summary: `${hit.points} points, ${hit.num_comments ?? 0} comments — discuss: https://news.ycombinator.com/item?id=${hit.objectID}`,
+        summary: `${hit.points} points, ${hit.num_comments ?? 0} comments`,
+        discussUrl: `https://news.ycombinator.com/item?id=${hit.objectID}`,
         tags: tagFor(title),
       });
     }

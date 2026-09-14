@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T04:31:43.153Z",
+  "generatedAt": "2026-09-14T04:37:59.198Z",
   "count": 150,
   "sources": [
     {
@@ -31,7 +31,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-14T00:22:51.000Z",
-      "summary": "51 points, 5 comments — discuss: https://news.ycombinator.com/item?id=49690260",
+      "summary": "51 points, 5 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49690260",
       "tags": [
         "open-weights"
       ]
@@ -53,7 +54,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-13T16:52:33.000Z",
-      "summary": "284 points, 209 comments — discuss: https://news.ycombinator.com/item?id=49685991",
+      "summary": "284 points, 209 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49685991",
       "tags": []
     },
     {
@@ -63,7 +65,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-13T15:44:38.000Z",
-      "summary": "372 points, 209 comments — discuss: https://news.ycombinator.com/item?id=49685253",
+      "summary": "372 points, 209 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49685253",
       "tags": [
         "open-weights"
       ]
@@ -75,7 +78,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-13T14:15:40.000Z",
-      "summary": "97 points, 86 comments — discuss: https://news.ycombinator.com/item?id=49684266",
+      "summary": "97 points, 87 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49684266",
       "tags": []
     },
     {
@@ -85,7 +89,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-12T20:28:29.000Z",
-      "summary": "101 points, 65 comments — discuss: https://news.ycombinator.com/item?id=49676849",
+      "summary": "101 points, 65 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49676849",
       "tags": []
     },
     {
@@ -95,7 +100,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-12T20:25:48.000Z",
-      "summary": "269 points, 149 comments — discuss: https://news.ycombinator.com/item?id=49676820",
+      "summary": "269 points, 149 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49676820",
       "tags": [
         "benchmarks"
       ]
@@ -107,7 +113,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-12T13:47:28.000Z",
-      "summary": "75 points, 37 comments — discuss: https://news.ycombinator.com/item?id=49672281",
+      "summary": "75 points, 37 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49672281",
       "tags": []
     },
     {
@@ -117,7 +124,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-11T23:17:42.000Z",
-      "summary": "954 points, 594 comments — discuss: https://news.ycombinator.com/item?id=49666735",
+      "summary": "954 points, 594 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49666735",
       "tags": []
     },
     {
@@ -127,7 +135,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-11T18:07:08.000Z",
-      "summary": "94 points, 20 comments — discuss: https://news.ycombinator.com/item?id=49662698",
+      "summary": "94 points, 20 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49662698",
       "tags": []
     },
     {
@@ -172,7 +181,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-11T04:52:20.000Z",
-      "summary": "56 points, 45 comments — discuss: https://news.ycombinator.com/item?id=49653699",
+      "summary": "56 points, 45 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49653699",
       "tags": []
     },
     {
@@ -182,7 +192,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-11T03:45:42.000Z",
-      "summary": "67 points, 16 comments — discuss: https://news.ycombinator.com/item?id=49653311",
+      "summary": "68 points, 16 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49653311",
       "tags": []
     },
     {
@@ -192,7 +203,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-11T03:35:43.000Z",
-      "summary": "New model on Hugging Face. 7587 downloads, 79 likes.",
+      "summary": "New model on Hugging Face. 7587 downloads, 80 likes.",
       "tags": [
         "new-model"
       ]
@@ -204,7 +215,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-11T01:05:59.000Z",
-      "summary": "58 points, 105 comments — discuss: https://news.ycombinator.com/item?id=49652270",
+      "summary": "58 points, 105 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49652270",
       "tags": []
     },
     {
@@ -214,7 +226,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-10T21:22:59.000Z",
-      "summary": "178 points, 178 comments — discuss: https://news.ycombinator.com/item?id=49650326",
+      "summary": "178 points, 178 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49650326",
       "tags": []
     },
     {
@@ -237,7 +250,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-10T19:43:22.000Z",
-      "summary": "346 points, 184 comments — discuss: https://news.ycombinator.com/item?id=49649213",
+      "summary": "346 points, 184 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49649213",
       "tags": []
     },
     {
@@ -281,7 +295,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-10T13:07:14.000Z",
-      "summary": "262 points, 15 comments — discuss: https://news.ycombinator.com/item?id=49643112",
+      "summary": "262 points, 15 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49643112",
       "tags": []
     },
     {
@@ -291,7 +306,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-10T11:18:58.000Z",
-      "summary": "77 points, 89 comments — discuss: https://news.ycombinator.com/item?id=49641792",
+      "summary": "77 points, 89 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49641792",
       "tags": []
     },
     {
@@ -334,7 +350,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-10T06:49:43.000Z",
-      "summary": "866 points, 816 comments — discuss: https://news.ycombinator.com/item?id=49639408",
+      "summary": "866 points, 816 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49639408",
       "tags": []
     },
     {
@@ -344,7 +361,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-10T05:01:50.000Z",
-      "summary": "97 points, 48 comments — discuss: https://news.ycombinator.com/item?id=49638622",
+      "summary": "97 points, 48 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49638622",
       "tags": []
     },
     {
@@ -354,7 +372,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-10T04:19:48.000Z",
-      "summary": "295 points, 10 comments — discuss: https://news.ycombinator.com/item?id=49638353",
+      "summary": "295 points, 10 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49638353",
       "tags": []
     },
     {
@@ -377,7 +396,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-10T02:04:11.000Z",
-      "summary": "120 points, 21 comments — discuss: https://news.ycombinator.com/item?id=49637435",
+      "summary": "120 points, 21 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49637435",
       "tags": []
     },
     {
@@ -435,7 +455,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-09T17:13:52.000Z",
-      "summary": "57 points, 15 comments — discuss: https://news.ycombinator.com/item?id=49629868",
+      "summary": "57 points, 15 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49629868",
       "tags": []
     },
     {
@@ -445,7 +466,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-09T17:09:51.000Z",
-      "summary": "75 points, 44 comments — discuss: https://news.ycombinator.com/item?id=49629802",
+      "summary": "75 points, 44 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49629802",
       "tags": []
     },
     {
@@ -467,7 +489,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-09T16:35:30.000Z",
-      "summary": "52 points, 14 comments — discuss: https://news.ycombinator.com/item?id=49629242",
+      "summary": "52 points, 14 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49629242",
       "tags": []
     },
     {
@@ -501,7 +524,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-09T01:32:49.000Z",
-      "summary": "90 points, 22 comments — discuss: https://news.ycombinator.com/item?id=49619639",
+      "summary": "90 points, 22 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49619639",
       "tags": []
     },
     {
@@ -511,7 +535,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-08T19:47:13.000Z",
-      "summary": "166 points, 60 comments — discuss: https://news.ycombinator.com/item?id=49615926",
+      "summary": "166 points, 60 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49615926",
       "tags": []
     },
     {
@@ -531,7 +556,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-08T16:59:41.000Z",
-      "summary": "175 points, 32 comments — discuss: https://news.ycombinator.com/item?id=49613068",
+      "summary": "175 points, 32 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49613068",
       "tags": []
     },
     {
@@ -551,7 +577,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-08T13:56:18.000Z",
-      "summary": "New model on Hugging Face · text-generation. 3552 downloads, 1163 likes.",
+      "summary": "New model on Hugging Face · text-generation. 3552 downloads, 1169 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -619,7 +645,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-08T05:20:23.000Z",
-      "summary": "120 points, 81 comments — discuss: https://news.ycombinator.com/item?id=49605822",
+      "summary": "120 points, 81 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49605822",
       "tags": []
     },
     {
@@ -662,7 +689,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-07T18:24:32.000Z",
-      "summary": "101 points, 119 comments — discuss: https://news.ycombinator.com/item?id=49601338",
+      "summary": "101 points, 119 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49601338",
       "tags": []
     },
     {
@@ -695,7 +723,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-06T11:56:43.000Z",
-      "summary": "729 points, 432 comments — discuss: https://news.ycombinator.com/item?id=49585644",
+      "summary": "729 points, 432 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49585644",
       "tags": []
     },
     {
@@ -752,7 +781,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-05T20:02:35.000Z",
-      "summary": "394 points, 256 comments — discuss: https://news.ycombinator.com/item?id=49580164",
+      "summary": "394 points, 256 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49580164",
       "tags": []
     },
     {
@@ -814,7 +844,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-04T21:25:49.000Z",
-      "summary": "78 points, 14 comments — discuss: https://news.ycombinator.com/item?id=49570411",
+      "summary": "78 points, 14 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49570411",
       "tags": [
         "open-weights"
       ]
@@ -826,7 +857,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-04T17:29:22.000Z",
-      "summary": "207 points, 4 comments — discuss: https://news.ycombinator.com/item?id=49567594",
+      "summary": "207 points, 4 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49567594",
       "tags": []
     },
     {
@@ -836,7 +868,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-04T17:09:24.000Z",
-      "summary": "164 points, 320 comments — discuss: https://news.ycombinator.com/item?id=49567310",
+      "summary": "164 points, 320 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49567310",
       "tags": []
     },
     {
@@ -872,7 +905,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-04T11:54:53.000Z",
-      "summary": "2299 points, 1603 comments — discuss: https://news.ycombinator.com/item?id=49563355",
+      "summary": "2299 points, 1603 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49563355",
       "tags": [
         "agents"
       ]
@@ -884,7 +918,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-04T10:30:57.000Z",
-      "summary": "95 points, 2 comments — discuss: https://news.ycombinator.com/item?id=49562744",
+      "summary": "95 points, 2 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49562744",
       "tags": []
     },
     {
@@ -894,7 +929,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-04T09:03:00.000Z",
-      "summary": "225 points, 45 comments — discuss: https://news.ycombinator.com/item?id=49562219",
+      "summary": "225 points, 45 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49562219",
       "tags": []
     },
     {
@@ -904,7 +940,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-03T19:45:00.000Z",
-      "summary": "240 points, 168 comments — discuss: https://news.ycombinator.com/item?id=49555691",
+      "summary": "240 points, 168 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49555691",
       "tags": []
     },
     {
@@ -914,7 +951,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-03T18:18:22.000Z",
-      "summary": "278 points, 253 comments — discuss: https://news.ycombinator.com/item?id=49554273",
+      "summary": "278 points, 253 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49554273",
       "tags": []
     },
     {
@@ -934,7 +972,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-03T14:28:18.000Z",
-      "summary": "380 points, 133 comments — discuss: https://news.ycombinator.com/item?id=49550375",
+      "summary": "380 points, 133 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49550375",
       "tags": []
     },
     {
@@ -996,7 +1035,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-02T16:58:34.000Z",
-      "summary": "56 points, 76 comments — discuss: https://news.ycombinator.com/item?id=49539152",
+      "summary": "56 points, 76 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49539152",
       "tags": []
     },
     {
@@ -1039,7 +1079,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-02T15:44:06.000Z",
-      "summary": "76 points, 0 comments — discuss: https://news.ycombinator.com/item?id=49538007",
+      "summary": "76 points, 0 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49538007",
       "tags": []
     },
     {
@@ -1049,7 +1090,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-02T14:02:35.000Z",
-      "summary": "145 points, 25 comments — discuss: https://news.ycombinator.com/item?id=49536411",
+      "summary": "145 points, 25 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49536411",
       "tags": [
         "inference"
       ]
@@ -1061,7 +1103,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-02T13:03:50.000Z",
-      "summary": "96 points, 42 comments — discuss: https://news.ycombinator.com/item?id=49535586",
+      "summary": "96 points, 42 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49535586",
       "tags": []
     },
     {
@@ -1081,7 +1124,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-02T10:02:41.000Z",
-      "summary": "196 points, 129 comments — discuss: https://news.ycombinator.com/item?id=49534132",
+      "summary": "196 points, 129 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49534132",
       "tags": []
     },
     {
@@ -1117,7 +1161,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-02T00:20:06.000Z",
-      "summary": "83 points, 93 comments — discuss: https://news.ycombinator.com/item?id=49530169",
+      "summary": "83 points, 93 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49530169",
       "tags": []
     },
     {
@@ -1127,7 +1172,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-01T23:48:05.000Z",
-      "summary": "155 points, 46 comments — discuss: https://news.ycombinator.com/item?id=49529898",
+      "summary": "155 points, 46 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49529898",
       "tags": [
         "inference"
       ]
@@ -1195,7 +1241,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-01T09:52:45.000Z",
-      "summary": "671 points, 168 comments — discuss: https://news.ycombinator.com/item?id=49519939",
+      "summary": "671 points, 168 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49519939",
       "tags": []
     },
     {
@@ -1241,7 +1288,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-31T07:02:05.000Z",
-      "summary": "67 points, 52 comments — discuss: https://news.ycombinator.com/item?id=49506519",
+      "summary": "67 points, 52 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49506519",
       "tags": []
     },
     {
@@ -1297,7 +1345,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-30T12:12:56.000Z",
-      "summary": "152 points, 183 comments — discuss: https://news.ycombinator.com/item?id=49497996",
+      "summary": "152 points, 183 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49497996",
       "tags": []
     },
     {
@@ -1320,7 +1369,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-29T18:38:52.000Z",
-      "summary": "60 points, 82 comments — discuss: https://news.ycombinator.com/item?id=49492184",
+      "summary": "60 points, 82 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49492184",
       "tags": []
     },
     {
@@ -1330,7 +1380,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-28T23:27:45.000Z",
-      "summary": "302 points, 86 comments — discuss: https://news.ycombinator.com/item?id=49485416",
+      "summary": "302 points, 86 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49485416",
       "tags": []
     },
     {
@@ -1353,7 +1404,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-28T15:20:13.000Z",
-      "summary": "806 points, 281 comments — discuss: https://news.ycombinator.com/item?id=49479878",
+      "summary": "806 points, 281 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49479878",
       "tags": [
         "open-weights"
       ]
@@ -1365,7 +1417,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-08-28T11:26:58.000Z",
-      "summary": "New model on Hugging Face · text-generation. 130031 downloads, 161 likes.",
+      "summary": "New model on Hugging Face · text-generation. 130031 downloads, 162 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1398,7 +1450,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-27T18:03:42.000Z",
-      "summary": "363 points, 127 comments — discuss: https://news.ycombinator.com/item?id=49468818",
+      "summary": "363 points, 127 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49468818",
       "tags": []
     },
     {
@@ -1408,7 +1461,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-27T17:06:32.000Z",
-      "summary": "297 points, 237 comments — discuss: https://news.ycombinator.com/item?id=49467922",
+      "summary": "297 points, 237 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49467922",
       "tags": []
     },
     {
@@ -1494,7 +1548,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-26T10:04:55.000Z",
-      "summary": "435 points, 146 comments — discuss: https://news.ycombinator.com/item?id=49446422",
+      "summary": "435 points, 146 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49446422",
       "tags": []
     },
     {
@@ -1514,7 +1569,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-08-25T06:43:14.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 1576209 downloads, 2310 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 1576209 downloads, 2311 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -1566,7 +1621,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-24T06:32:28.000Z",
-      "summary": "77 points, 61 comments — discuss: https://news.ycombinator.com/item?id=49415907",
+      "summary": "77 points, 61 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49415907",
       "tags": []
     },
     {
@@ -1576,7 +1632,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-24T03:32:42.000Z",
-      "summary": "75 points, 76 comments — discuss: https://news.ycombinator.com/item?id=49414934",
+      "summary": "75 points, 76 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49414934",
       "tags": []
     },
     {
@@ -1586,7 +1643,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-23T18:16:37.000Z",
-      "summary": "821 points, 701 comments — discuss: https://news.ycombinator.com/item?id=49411102",
+      "summary": "821 points, 701 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49411102",
       "tags": []
     },
     {
@@ -1596,7 +1654,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-23T16:24:21.000Z",
-      "summary": "240 points, 124 comments — discuss: https://news.ycombinator.com/item?id=49410097",
+      "summary": "240 points, 124 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49410097",
       "tags": [
         "open-weights"
       ]
@@ -1608,7 +1667,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-23T14:23:09.000Z",
-      "summary": "706 points, 293 comments — discuss: https://news.ycombinator.com/item?id=49409073",
+      "summary": "706 points, 293 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49409073",
       "tags": []
     },
     {
@@ -1618,7 +1678,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-22T16:58:49.000Z",
-      "summary": "216 points, 191 comments — discuss: https://news.ycombinator.com/item?id=49401549",
+      "summary": "216 points, 191 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49401549",
       "tags": []
     },
     {
@@ -1651,7 +1712,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-08-17T15:15:19.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 2157412 downloads, 1151 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 2157412 downloads, 1153 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -1664,7 +1725,8 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-08-16T21:53:43.000Z",
-      "summary": "825 points, 731 comments — discuss: https://news.ycombinator.com/item?id=49324087",
+      "summary": "825 points, 731 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49324087",
       "tags": []
     },
     {

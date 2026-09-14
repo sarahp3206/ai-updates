@@ -113,9 +113,6 @@ function render() {
     a.textContent = item.title;
     h2.appendChild(a);
 
-    const p = document.createElement("p");
-    p.textContent = item.summary;
-
     const tagRow = document.createElement("div");
     tagRow.className = "card-tags";
     for (const t of item.tags) {
@@ -130,7 +127,23 @@ function render() {
       tagRow.appendChild(tag);
     }
 
-    card.append(top, h2, p, tagRow);
+    card.append(top, h2);
+    if (item.summary || item.discussUrl) {
+      const p = document.createElement("p");
+      p.textContent = item.summary || "";
+      if (item.discussUrl) {
+        if (item.summary) p.append(" — ");
+        const discuss = document.createElement("a");
+        discuss.href = item.discussUrl;
+        discuss.target = "_blank";
+        discuss.rel = "noopener noreferrer";
+        discuss.className = "discuss-link";
+        discuss.textContent = "discuss on HN";
+        p.appendChild(discuss);
+      }
+      card.appendChild(p);
+    }
+    card.appendChild(tagRow);
     el.list.appendChild(card);
   }
 }
