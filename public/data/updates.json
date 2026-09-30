@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:53:59.311Z",
+  "generatedAt": "2026-09-30T13:32:21.754Z",
   "count": 150,
   "sources": [
     {
@@ -31,7 +31,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-29T17:31:26.000Z",
-      "summary": "170 points, 154 comments",
+      "summary": "233 points, 224 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49897075",
       "tags": []
     },
@@ -62,7 +62,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-29T07:28:16.000Z",
-      "summary": "New model on Hugging Face · image-classification. 0 downloads, 136 likes.",
+      "summary": "New model on Hugging Face · image-classification. 137 downloads, 144 likes.",
       "tags": [
         "image classification",
         "new-model"
@@ -75,7 +75,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-29T07:07:53.000Z",
-      "summary": "74 points, 88 comments",
+      "summary": "76 points, 91 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49889306",
       "tags": []
     },
@@ -86,7 +86,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-29T00:34:27.000Z",
-      "summary": "61 points, 101 comments",
+      "summary": "62 points, 100 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49886416",
       "tags": [
         "safety/alignment"
@@ -99,7 +99,7 @@
       "source": "OpenAI",
       "category": "news",
       "date": "2026-09-29T00:00:00.000Z",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
       "tags": []
     },
     {
@@ -131,7 +131,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-28T18:58:53.000Z",
-      "summary": "274 points, 113 comments",
+      "summary": "278 points, 113 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49882781",
       "tags": []
     },
@@ -142,7 +142,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-28T17:33:34.000Z",
-      "summary": "107 points, 112 comments",
+      "summary": "108 points, 112 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49881484",
       "tags": []
     },
@@ -153,7 +153,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-28T08:35:40.000Z",
-      "summary": "436 points, 392 comments",
+      "summary": "438 points, 393 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49875148",
       "tags": []
     },
@@ -194,7 +194,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-27T16:29:38.000Z",
-      "summary": "59 points, 117 comments",
+      "summary": "59 points, 118 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49868202",
       "tags": []
     },
@@ -205,7 +205,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-27T14:14:32.000Z",
-      "summary": "New model on Hugging Face · text-generation. 769 downloads, 109 likes.",
+      "summary": "New model on Hugging Face · text-generation. 989 downloads, 117 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -229,7 +229,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-27T06:19:33.000Z",
-      "summary": "626 points, 617 comments",
+      "summary": "627 points, 620 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49863864",
       "tags": []
     },
@@ -251,7 +251,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-26T23:49:01.000Z",
-      "summary": "134 points, 87 comments",
+      "summary": "134 points, 90 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49861755",
       "tags": []
     },
@@ -262,7 +262,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-26T19:57:24.000Z",
-      "summary": "87 points, 12 comments",
+      "summary": "89 points, 12 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49859982",
       "tags": []
     },
@@ -308,7 +308,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-26T09:42:51.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 19505 downloads, 135 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 33259 downloads, 139 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -321,7 +321,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-26T09:41:58.000Z",
-      "summary": "348 points, 344 comments",
+      "summary": "349 points, 349 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49854875",
       "tags": []
     },
@@ -343,7 +343,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-26T03:37:50.000Z",
-      "summary": "New model on Hugging Face · text-generation. 6170 downloads, 153 likes.",
+      "summary": "New model on Hugging Face · text-generation. 7186 downloads, 171 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -378,7 +378,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-25T21:09:27.000Z",
-      "summary": "752 points, 471 comments",
+      "summary": "753 points, 471 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49849985",
       "tags": []
     },
@@ -421,7 +421,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-25T08:14:15.000Z",
-      "summary": "New model on Hugging Face · video-to-video. 5890 downloads, 153 likes.",
+      "summary": "New model on Hugging Face · video-to-video. 8078 downloads, 171 likes.",
       "tags": [
         "fine-tuning",
         "video to video",
@@ -467,7 +467,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-24T13:13:45.000Z",
-      "summary": "New model on Hugging Face · text-generation. 116252 downloads, 153 likes.",
+      "summary": "New model on Hugging Face · text-generation. 175005 downloads, 162 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -491,7 +491,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-24T06:33:36.000Z",
-      "summary": "New model on Hugging Face · zero-shot-classification. 383 downloads, 97 likes.",
+      "summary": "New model on Hugging Face · zero-shot-classification. 480 downloads, 97 likes.",
       "tags": [
         "zero shot classification",
         "new-model"
@@ -504,7 +504,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-24T03:44:51.000Z",
-      "summary": "New model on Hugging Face · text-generation. 2143 downloads, 212 likes.",
+      "summary": "New model on Hugging Face · text-generation. 2456 downloads, 216 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -596,7 +596,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-23T15:56:49.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 820 downloads, 119 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 953 downloads, 119 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -609,7 +609,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-23T15:29:46.000Z",
-      "summary": "New model on Hugging Face · text-classification. 1725 downloads, 290 likes.",
+      "summary": "New model on Hugging Face · text-classification. 2201 downloads, 304 likes.",
       "tags": [
         "text classification",
         "new-model"
@@ -643,7 +643,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-23T14:56:12.000Z",
-      "summary": "New model on Hugging Face · token-classification. 29199 downloads, 240 likes.",
+      "summary": "New model on Hugging Face · token-classification. 34664 downloads, 248 likes.",
       "tags": [
         "token classification",
         "new-model"
@@ -731,7 +731,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-23T07:30:42.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 41994 downloads, 124 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 70542 downloads, 125 likes.",
       "tags": [
         "text to image",
         "new-model"
@@ -875,7 +875,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-22T10:36:43.000Z",
-      "summary": "New model on Hugging Face · robotics. 0 downloads, 106 likes.",
+      "summary": "New model on Hugging Face · robotics. 0 downloads, 112 likes.",
       "tags": [
         "robotics",
         "new-model"
@@ -899,7 +899,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-22T04:14:56.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 190649 downloads, 423 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 205137 downloads, 437 likes.",
       "tags": [
         "text to image",
         "new-model"
@@ -935,7 +935,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-21T21:24:24.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 74246 downloads, 114 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 85102 downloads, 122 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -948,7 +948,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-21T20:09:04.000Z",
-      "summary": "New model on Hugging Face · text-ranking. 1910 downloads, 524 likes.",
+      "summary": "New model on Hugging Face · text-ranking. 2392 downloads, 550 likes.",
       "tags": [
         "text ranking",
         "new-model"
@@ -961,7 +961,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-21T18:18:40.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 11131 downloads, 568 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 12085 downloads, 577 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -974,7 +974,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-21T18:18:20.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 1956 downloads, 265 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 2103 downloads, 274 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -987,7 +987,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-21T15:39:51.000Z",
-      "summary": "New model on Hugging Face · text-generation. 39625 downloads, 519 likes.",
+      "summary": "New model on Hugging Face · text-generation. 43038 downloads, 522 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1000,7 +1000,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-21T15:39:33.000Z",
-      "summary": "New model on Hugging Face · text-generation. 78135 downloads, 600 likes.",
+      "summary": "New model on Hugging Face · text-generation. 80958 downloads, 604 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1013,7 +1013,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-21T15:03:21.000Z",
-      "summary": "New model on Hugging Face · automatic-speech-recognition. 23674 downloads, 1484 likes.",
+      "summary": "New model on Hugging Face · automatic-speech-recognition. 26749 downloads, 1573 likes.",
       "tags": [
         "automatic speech recognition",
         "new-model"
@@ -1037,7 +1037,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-21T13:04:48.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 251937 downloads, 298 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 302158 downloads, 303 likes.",
       "tags": [
         "text to image",
         "new-model"
@@ -1103,7 +1103,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-20T21:43:20.000Z",
-      "summary": "New model on Hugging Face · text-classification. 923 downloads, 310 likes.",
+      "summary": "New model on Hugging Face · text-classification. 1132 downloads, 320 likes.",
       "tags": [
         "text classification",
         "new-model"
@@ -1116,7 +1116,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-20T17:08:40.000Z",
-      "summary": "New model on Hugging Face. 168249 downloads, 322 likes.",
+      "summary": "New model on Hugging Face. 174547 downloads, 327 likes.",
       "tags": [
         "new-model"
       ]
@@ -1128,7 +1128,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-20T15:51:13.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 1152523 downloads, 2427 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 1232685 downloads, 2496 likes.",
       "tags": [
         "text to image",
         "new-model"
@@ -1141,7 +1141,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-20T15:16:07.000Z",
-      "summary": "569 points, 148 comments",
+      "summary": "569 points, 149 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49776699",
       "tags": []
     },
@@ -1152,7 +1152,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-20T12:10:31.000Z",
-      "summary": "New model on Hugging Face · text-generation. 7880 downloads, 770 likes.",
+      "summary": "New model on Hugging Face · text-generation. 8524 downloads, 780 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1176,7 +1176,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-09-19T16:35:24.000Z",
-      "summary": "362 points, 177 comments",
+      "summary": "363 points, 177 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=49767937",
       "tags": []
     },
@@ -1200,7 +1200,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-19T03:23:34.000Z",
-      "summary": "New model on Hugging Face · text-classification. 0 downloads, 327 likes.",
+      "summary": "New model on Hugging Face · text-classification. 0 downloads, 338 likes.",
       "tags": [
         "text classification",
         "new-model"
@@ -1293,7 +1293,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-18T05:05:55.000Z",
-      "summary": "New model on Hugging Face · text-classification. 0 downloads, 4502 likes.",
+      "summary": "New model on Hugging Face · text-classification. 0 downloads, 4592 likes.",
       "tags": [
         "text classification",
         "new-model"
@@ -1345,6 +1345,17 @@
     },
     {
       "id": 116,
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "source": "Hacker News",
+      "category": "news",
+      "date": "2026-09-17T15:40:17.000Z",
+      "summary": "116 points, 25 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=49742437",
+      "tags": []
+    },
+    {
+      "id": 117,
       "title": "I had Gemini train its own replacement for $9",
       "url": "https://www.petervijeh.com/projects/reddit-ner",
       "source": "Hacker News",
@@ -1355,7 +1366,7 @@
       "tags": []
     },
     {
-      "id": 117,
+      "id": 118,
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI",
@@ -1365,20 +1376,20 @@
       "tags": []
     },
     {
-      "id": 118,
+      "id": 119,
       "title": "inclusionAI/Ming-Image-0.1-Design",
       "url": "https://huggingface.co/inclusionAI/Ming-Image-0.1-Design",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-17T07:17:31.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 0 downloads, 347 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 0 downloads, 352 likes.",
       "tags": [
         "text to image",
         "new-model"
       ]
     },
     {
-      "id": 119,
+      "id": 120,
       "title": "Introducing Astra for Law",
       "url": "https://openai.com/index/astra-for-law",
       "source": "OpenAI",
@@ -1388,33 +1399,33 @@
       "tags": []
     },
     {
-      "id": 120,
+      "id": 121,
       "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-16T23:40:56.000Z",
-      "summary": "New model on Hugging Face · text-generation. 3581027 downloads, 2265 likes.",
+      "summary": "New model on Hugging Face · text-generation. 3676692 downloads, 2290 likes.",
       "tags": [
         "text generation",
         "new-model"
       ]
     },
     {
-      "id": 121,
+      "id": 122,
       "title": "AlexWortega/openjev",
       "url": "https://huggingface.co/AlexWortega/openjev",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-16T18:25:10.000Z",
-      "summary": "New model on Hugging Face · text-classification. 0 downloads, 621 likes.",
+      "summary": "New model on Hugging Face · text-classification. 0 downloads, 626 likes.",
       "tags": [
         "text classification",
         "new-model"
       ]
     },
     {
-      "id": 122,
+      "id": 123,
       "title": "Our framework for reporting model misalignment",
       "url": "https://openai.com/index/model-misalignment-reporting-framework",
       "source": "OpenAI",
@@ -1426,7 +1437,7 @@
       ]
     },
     {
-      "id": 123,
+      "id": 124,
       "title": "Helping older adults use AI in everyday life",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "source": "OpenAI",
@@ -1436,7 +1447,7 @@
       "tags": []
     },
     {
-      "id": 124,
+      "id": 125,
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
       "url": "https://stale.jock.pl/",
       "source": "Hacker News",
@@ -1447,7 +1458,7 @@
       "tags": []
     },
     {
-      "id": 125,
+      "id": 126,
       "title": "Reimagining advertising with AI",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "source": "OpenAI",
@@ -1457,7 +1468,7 @@
       "tags": []
     },
     {
-      "id": 126,
+      "id": 127,
       "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
       "url": "https://openai.com/index/hex-gpt-6-astra",
       "source": "OpenAI",
@@ -1467,7 +1478,7 @@
       "tags": []
     },
     {
-      "id": 127,
+      "id": 128,
       "title": "How to connect AI usage to business value",
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "source": "OpenAI",
@@ -1477,7 +1488,7 @@
       "tags": []
     },
     {
-      "id": 128,
+      "id": 129,
       "title": "How workers are unlocking new ways of working",
       "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "source": "OpenAI",
@@ -1487,32 +1498,32 @@
       "tags": []
     },
     {
-      "id": 129,
+      "id": 130,
       "title": "XingChen-AGI/Xing4.0-29B-A4B",
       "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-16T06:44:40.000Z",
-      "summary": "New model on Hugging Face · text-generation. 46557 downloads, 1807 likes.",
+      "summary": "New model on Hugging Face · text-generation. 47613 downloads, 1811 likes.",
       "tags": [
         "text generation",
         "new-model"
       ]
     },
     {
-      "id": 130,
+      "id": 131,
       "title": "Comfy-Org/Qwen-Image-2.1",
       "url": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-15T19:41:09.000Z",
-      "summary": "New model on Hugging Face. 4699089 downloads, 852 likes.",
+      "summary": "New model on Hugging Face. 5032483 downloads, 859 likes.",
       "tags": [
         "new-model"
       ]
     },
     {
-      "id": 131,
+      "id": 132,
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
       "source": "Hacker News",
@@ -1523,7 +1534,7 @@
       "tags": []
     },
     {
-      "id": 132,
+      "id": 133,
       "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
       "source": "Google DeepMind",
@@ -1533,7 +1544,7 @@
       "tags": []
     },
     {
-      "id": 133,
+      "id": 134,
       "title": "Cartesian – AI 3D Modeling for Design",
       "url": "https://www.formas.ai/cartesian",
       "source": "Hacker News",
@@ -1544,7 +1555,7 @@
       "tags": []
     },
     {
-      "id": 134,
+      "id": 135,
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer",
       "source": "OpenAI",
@@ -1556,20 +1567,20 @@
       ]
     },
     {
-      "id": 135,
+      "id": 136,
       "title": "Qwen/Qwen-Image-2.1",
       "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-14T03:47:26.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 64362 downloads, 2655 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 70687 downloads, 2689 likes.",
       "tags": [
         "text to image",
         "new-model"
       ]
     },
     {
-      "id": 136,
+      "id": 137,
       "title": "Open-source AI and open models reading list",
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "source": "Hacker News",
@@ -1582,7 +1593,7 @@
       ]
     },
     {
-      "id": 137,
+      "id": 138,
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI",
@@ -1592,7 +1603,7 @@
       "tags": []
     },
     {
-      "id": 138,
+      "id": 139,
       "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "source": "Hacker News",
@@ -1605,7 +1616,7 @@
       ]
     },
     {
-      "id": 139,
+      "id": 140,
       "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
       "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
       "source": "Hacker News",
@@ -1616,7 +1627,7 @@
       "tags": []
     },
     {
-      "id": 140,
+      "id": 141,
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
       "url": "https://withspecific.com/benchmarks/real-swe",
       "source": "Hacker News",
@@ -1629,7 +1640,7 @@
       ]
     },
     {
-      "id": 141,
+      "id": 142,
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "source": "OpenAI",
@@ -1641,7 +1652,7 @@
       ]
     },
     {
-      "id": 142,
+      "id": 143,
       "title": "The Gemini app is now available for Windows",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
       "source": "Hacker News",
@@ -1652,7 +1663,7 @@
       "tags": []
     },
     {
-      "id": 143,
+      "id": 144,
       "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
       "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
       "source": "Hacker News",
@@ -1663,33 +1674,33 @@
       "tags": []
     },
     {
-      "id": 144,
+      "id": 145,
       "title": "netease-youdao/Confucius4-R2T2",
       "url": "https://huggingface.co/netease-youdao/Confucius4-R2T2",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-10T12:16:21.000Z",
-      "summary": "New model on Hugging Face · automatic-speech-recognition. 10482 downloads, 468 likes.",
+      "summary": "New model on Hugging Face · automatic-speech-recognition. 11535 downloads, 477 likes.",
       "tags": [
         "automatic speech recognition",
         "new-model"
       ]
     },
     {
-      "id": 145,
+      "id": 146,
       "title": "deepseek-ai/DeepSeek-V4.1-Flash",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-10T02:17:58.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 690388 downloads, 3893 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 721211 downloads, 3917 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 146,
+      "id": 147,
       "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
       "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
       "source": "Google DeepMind",
@@ -1699,7 +1710,7 @@
       "tags": []
     },
     {
-      "id": 147,
+      "id": 148,
       "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
       "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
       "source": "Hacker News",
@@ -1710,20 +1721,20 @@
       "tags": []
     },
     {
-      "id": 148,
+      "id": 149,
       "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-09-07T09:41:37.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 612673 downloads, 382 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 754993 downloads, 388 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 149,
+      "id": 150,
       "title": "End-to-end infrastructure for training and inferencing open weight models",
       "url": "https://docs.appliedcompute.com",
       "source": "Hacker News",
@@ -1733,19 +1744,6 @@
       "discussUrl": "https://news.ycombinator.com/item?id=49570411",
       "tags": [
         "open-weights"
-      ]
-    },
-    {
-      "id": 150,
-      "title": "TaichuAI/ZDTaichu5.0-9B",
-      "url": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-09-04T02:55:48.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 11836 downloads, 1947 likes.",
-      "tags": [
-        "image text to text",
-        "new-model"
       ]
     }
   ]
