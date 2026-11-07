@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T13:50:50.605Z",
+  "generatedAt": "2026-11-07T22:37:26.080Z",
   "count": 150,
   "sources": [
     {
@@ -31,7 +31,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-06T19:31:28.000Z",
-      "summary": "New model on Hugging Face · text-generation. 989 downloads, 142 likes.",
+      "summary": "New model on Hugging Face · text-generation. 989 downloads, 199 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -44,7 +44,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-11-06T18:03:33.000Z",
-      "summary": "108 points, 13 comments",
+      "summary": "115 points, 13 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50395919",
       "tags": []
     },
@@ -55,7 +55,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-11-06T13:35:27.000Z",
-      "summary": "348 points, 234 comments",
+      "summary": "358 points, 249 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50392118",
       "tags": []
     },
@@ -129,7 +129,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-05T11:54:26.000Z",
-      "summary": "New model on Hugging Face · unconditional-image-generation. 18761 downloads, 79 likes.",
+      "summary": "New model on Hugging Face · unconditional-image-generation. 18761 downloads, 88 likes.",
       "tags": [
         "unconditional image generation",
         "new-model"
@@ -238,7 +238,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-04T02:41:21.000Z",
-      "summary": "New model on Hugging Face. 3803 downloads, 350 likes.",
+      "summary": "New model on Hugging Face. 3803 downloads, 368 likes.",
       "tags": [
         "new-model"
       ]
@@ -357,7 +357,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-02T22:12:58.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 2774 downloads, 115 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 2774 downloads, 119 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -410,7 +410,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-02T13:52:10.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 243190 downloads, 189 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 243190 downloads, 194 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -435,7 +435,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-02T04:13:51.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 22571 downloads, 1592 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 22571 downloads, 1627 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -468,7 +468,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-01T22:30:01.000Z",
-      "summary": "New model on Hugging Face · text-generation. 24479 downloads, 237 likes.",
+      "summary": "New model on Hugging Face · text-generation. 24479 downloads, 254 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -527,13 +527,26 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-31T20:31:01.000Z",
-      "summary": "New model on Hugging Face. 997 downloads, 401 likes.",
+      "summary": "New model on Hugging Face. 997 downloads, 404 likes.",
       "tags": [
         "new-model"
       ]
     },
     {
       "id": 47,
+      "title": "deep-principle/Hydrogen-1.0",
+      "url": "https://huggingface.co/deep-principle/Hydrogen-1.0",
+      "source": "Hugging Face Models",
+      "category": "model",
+      "date": "2026-10-31T15:54:37.000Z",
+      "summary": "New model on Hugging Face · text-generation. 26001 downloads, 265 likes.",
+      "tags": [
+        "text generation",
+        "new-model"
+      ]
+    },
+    {
+      "id": 48,
       "title": "Malware uses LLMs to rank victims by how much they're worth",
       "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
       "source": "Hacker News",
@@ -544,7 +557,7 @@
       "tags": []
     },
     {
-      "id": 48,
+      "id": 49,
       "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
       "source": "Hacker News",
@@ -555,19 +568,19 @@
       "tags": []
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
       "url": "https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-31T09:45:48.000Z",
-      "summary": "New model on Hugging Face. 56199 downloads, 120 likes.",
+      "summary": "New model on Hugging Face. 56199 downloads, 143 likes.",
       "tags": [
         "new-model"
       ]
     },
     {
-      "id": 50,
+      "id": 51,
       "title": "OpenAI raises less than half of $30B target",
       "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
       "source": "Hacker News",
@@ -576,19 +589,6 @@
       "summary": "188 points, 203 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50312922",
       "tags": []
-    },
-    {
-      "id": 51,
-      "title": "nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
-      "url": "https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-10-30T17:37:02.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 7821 downloads, 184 likes.",
-      "tags": [
-        "image text to text",
-        "new-model"
-      ]
     },
     {
       "id": 52,
@@ -607,7 +607,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-30T12:13:24.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 3080 downloads, 206 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 3080 downloads, 207 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -620,7 +620,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-30T10:21:29.000Z",
-      "summary": "New model on Hugging Face · text-generation. 1369 downloads, 296 likes.",
+      "summary": "New model on Hugging Face · text-generation. 1369 downloads, 455 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -679,7 +679,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-29T17:08:44.000Z",
-      "summary": "New model on Hugging Face · image-to-video. 1083 downloads, 504 likes.",
+      "summary": "New model on Hugging Face · image-to-video. 1083 downloads, 506 likes.",
       "tags": [
         "image to video",
         "new-model"
@@ -811,7 +811,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-28T15:55:17.000Z",
-      "summary": "New model on Hugging Face · image-to-3d. 20689 downloads, 1023 likes.",
+      "summary": "New model on Hugging Face · image-to-3d. 20689 downloads, 1103 likes.",
       "tags": [
         "image to 3d",
         "new-model"
@@ -824,7 +824,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-28T15:34:40.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 3306 downloads, 267 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 3306 downloads, 272 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -858,7 +858,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-28T11:26:05.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 505526 downloads, 228 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 505526 downloads, 230 likes.",
       "tags": [
         "text to image",
         "new-model"
@@ -893,7 +893,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-28T04:48:45.000Z",
-      "summary": "New model on Hugging Face · text-generation. 117016 downloads, 360 likes.",
+      "summary": "New model on Hugging Face · text-generation. 117016 downloads, 374 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -917,7 +917,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-27T18:33:25.000Z",
-      "summary": "New model on Hugging Face · text-generation. 109201 downloads, 280 likes.",
+      "summary": "New model on Hugging Face · text-generation. 109201 downloads, 283 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -964,7 +964,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-27T09:16:58.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 789 downloads, 154 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 789 downloads, 158 likes.",
       "tags": [
         "text to image",
         "new-model"
@@ -1055,7 +1055,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-26T03:57:46.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 355394 downloads, 641 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 355394 downloads, 647 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -1114,7 +1114,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-25T05:43:34.000Z",
-      "summary": "New model on Hugging Face. 221506 downloads, 834 likes.",
+      "summary": "New model on Hugging Face. 221506 downloads, 870 likes.",
       "tags": [
         "new-model"
       ]
@@ -1137,7 +1137,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-24T19:30:34.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 9009 downloads, 242 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 9009 downloads, 247 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -1161,7 +1161,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-24T11:16:40.000Z",
-      "summary": "New model on Hugging Face. 327176 downloads, 250 likes.",
+      "summary": "New model on Hugging Face. 327176 downloads, 252 likes.",
       "tags": [
         "new-model"
       ]
@@ -1173,7 +1173,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-24T00:46:40.000Z",
-      "summary": "New model on Hugging Face · text-generation. 255169 downloads, 253 likes.",
+      "summary": "New model on Hugging Face · text-generation. 255169 downloads, 255 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1186,7 +1186,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-23T21:35:42.000Z",
-      "summary": "New model on Hugging Face · text-generation. 70034 downloads, 1538 likes.",
+      "summary": "New model on Hugging Face · text-generation. 70034 downloads, 1548 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1199,7 +1199,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-23T09:43:05.000Z",
-      "summary": "New model on Hugging Face · text-generation. 2991286 downloads, 627 likes.",
+      "summary": "New model on Hugging Face · text-generation. 2991286 downloads, 632 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1212,7 +1212,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-23T08:59:53.000Z",
-      "summary": "New model on Hugging Face · text-generation. 3835 downloads, 270 likes.",
+      "summary": "New model on Hugging Face · text-generation. 3835 downloads, 274 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1225,7 +1225,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-23T01:37:02.000Z",
-      "summary": "New model on Hugging Face. 9212 downloads, 373 likes.",
+      "summary": "New model on Hugging Face. 9212 downloads, 380 likes.",
       "tags": [
         "new-model"
       ]
@@ -1248,7 +1248,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-22T19:06:17.000Z",
-      "summary": "New model on Hugging Face · video-to-video. 64942 downloads, 148 likes.",
+      "summary": "New model on Hugging Face · video-to-video. 64942 downloads, 160 likes.",
       "tags": [
         "video to video",
         "new-model"
@@ -1293,7 +1293,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-21T16:58:40.000Z",
-      "summary": "New model on Hugging Face · any-to-any. 16064 downloads, 396 likes.",
+      "summary": "New model on Hugging Face · any-to-any. 16064 downloads, 404 likes.",
       "tags": [
         "any to any",
         "new-model"
@@ -1317,7 +1317,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-21T08:40:58.000Z",
-      "summary": "New model on Hugging Face · text-generation. 971 downloads, 216 likes.",
+      "summary": "New model on Hugging Face · text-generation. 971 downloads, 220 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1352,7 +1352,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-17T20:36:06.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 957541 downloads, 358 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 957541 downloads, 359 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -1398,7 +1398,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-17T02:40:38.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 277323 downloads, 5380 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 277323 downloads, 5388 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -1445,7 +1445,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-14T16:50:12.000Z",
-      "summary": "New model on Hugging Face · text-generation. 15324 downloads, 200 likes.",
+      "summary": "New model on Hugging Face · text-generation. 15324 downloads, 211 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -1458,7 +1458,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-14T12:00:13.000Z",
-      "summary": "New model on Hugging Face · image-to-image. 1143397 downloads, 2654 likes.",
+      "summary": "New model on Hugging Face · image-to-image. 1143397 downloads, 2684 likes.",
       "tags": [
         "image to image",
         "new-model"
@@ -1471,7 +1471,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-14T03:02:49.000Z",
-      "summary": "New model on Hugging Face · text-to-speech. 14103 downloads, 341 likes.",
+      "summary": "New model on Hugging Face · text-to-speech. 14103 downloads, 346 likes.",
       "tags": [
         "text to speech",
         "new-model"
