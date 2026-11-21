@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:14:02.872Z",
+  "generatedAt": "2026-11-21T23:44:19.536Z",
   "count": 150,
   "sources": [
     {
@@ -31,7 +31,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-20T22:34:28.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 499 downloads, 75 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 499 downloads, 135 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -39,25 +39,23 @@
     },
     {
       "id": 2,
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "source": "Hacker News",
+      "category": "news",
+      "date": "2026-11-20T22:18:20.000Z",
+      "summary": "53 points, 19 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=50583117",
+      "tags": []
+    },
+    {
+      "id": 3,
       "title": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
       "url": "https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-20T20:42:23.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 9540 downloads, 73 likes.",
-      "tags": [
-        "image text to text",
-        "new-model"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "unsloth/Inkling-2-Mini-GGUF",
-      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-11-20T13:09:48.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 238152 downloads, 444 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 9540 downloads, 227 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -65,6 +63,19 @@
     },
     {
       "id": 4,
+      "title": "unsloth/Inkling-2-Mini-GGUF",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "source": "Hugging Face Models",
+      "category": "model",
+      "date": "2026-11-20T13:09:48.000Z",
+      "summary": "New model on Hugging Face · image-text-to-text. 238152 downloads, 598 likes.",
+      "tags": [
+        "image text to text",
+        "new-model"
+      ]
+    },
+    {
+      "id": 5,
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI",
@@ -74,7 +85,7 @@
       "tags": []
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "url": "https://openai.com/business/customer-stories/hebbia",
       "source": "OpenAI",
@@ -84,7 +95,7 @@
       "tags": []
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "Can AI help scientists identify promising drug candidates?",
       "url": "https://openai.com/index/introducing-medchembench",
       "source": "OpenAI",
@@ -94,28 +105,15 @@
       "tags": []
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
       "url": "https://git-aarvin.github.io/mei/",
       "source": "Hacker News",
       "category": "news",
       "date": "2026-11-19T23:35:35.000Z",
-      "summary": "371 points, 243 comments",
+      "summary": "373 points, 244 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50568130",
       "tags": []
-    },
-    {
-      "id": 8,
-      "title": "Nebsh/Seedreamstyle-H3-6K",
-      "url": "https://huggingface.co/Nebsh/Seedreamstyle-H3-6K",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-11-19T18:53:04.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 4246 downloads, 84 likes.",
-      "tags": [
-        "text to image",
-        "new-model"
-      ]
     },
     {
       "id": 9,
@@ -156,7 +154,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-11-19T00:29:45.000Z",
-      "summary": "255 points, 78 comments",
+      "summary": "256 points, 78 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50554374",
       "tags": []
     },
@@ -230,7 +228,7 @@
       "source": "Hacker News",
       "category": "news",
       "date": "2026-11-18T21:34:07.000Z",
-      "summary": "1056 points, 778 comments",
+      "summary": "1058 points, 775 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50552424",
       "tags": []
     },
@@ -262,7 +260,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-18T17:05:50.000Z",
-      "summary": "New model on Hugging Face · text-generation. 3099 downloads, 115 likes.",
+      "summary": "New model on Hugging Face · text-generation. 3099 downloads, 172 likes.",
       "tags": [
         "text generation",
         "new-model"
@@ -270,6 +268,17 @@
     },
     {
       "id": 23,
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+      "source": "Hacker News",
+      "category": "news",
+      "date": "2026-11-18T14:15:58.000Z",
+      "summary": "174 points, 118 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=50546587",
+      "tags": []
+    },
+    {
+      "id": 24,
       "title": "The Silent Consensus",
       "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI",
@@ -279,7 +288,7 @@
       "tags": []
     },
     {
-      "id": 24,
+      "id": 25,
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
@@ -289,7 +298,7 @@
       "tags": []
     },
     {
-      "id": 25,
+      "id": 26,
       "title": "Research acceleration: The jagged frontier",
       "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI",
@@ -299,7 +308,7 @@
       "tags": []
     },
     {
-      "id": 26,
+      "id": 27,
       "title": "Inside the Codex sandbox",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
       "source": "OpenAI",
@@ -309,7 +318,20 @@
       "tags": []
     },
     {
-      "id": 27,
+      "id": 28,
+      "title": "sensenova/SenseNova-Loop-9B-GGUF",
+      "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B-GGUF",
+      "source": "Hugging Face Models",
+      "category": "model",
+      "date": "2026-11-18T06:47:11.000Z",
+      "summary": "New model on Hugging Face · image-text-to-text. 68559 downloads, 106 likes.",
+      "tags": [
+        "image text to text",
+        "new-model"
+      ]
+    },
+    {
+      "id": 29,
       "title": "Managing frontier AI risk: From training to deployment",
       "url": "https://openai.com/index/managing-frontier-ai-risk",
       "source": "OpenAI",
@@ -321,31 +343,31 @@
       ]
     },
     {
-      "id": 28,
+      "id": 30,
       "title": "RadixArk/DaisyRose-27B",
       "url": "https://huggingface.co/RadixArk/DaisyRose-27B",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-18T05:31:35.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 1375 downloads, 250 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 1375 downloads, 268 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 29,
+      "id": 31,
       "title": "Why is Gemini 4 Carbon taking so long?",
       "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
       "source": "Hacker News",
       "category": "news",
       "date": "2026-11-18T04:14:04.000Z",
-      "summary": "284 points, 140 comments",
+      "summary": "285 points, 140 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50541790",
       "tags": []
     },
     {
-      "id": 30,
+      "id": 32,
       "title": "Advancing chip design with OpenAI models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
@@ -355,7 +377,7 @@
       "tags": []
     },
     {
-      "id": 31,
+      "id": 33,
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
@@ -365,18 +387,18 @@
       "tags": []
     },
     {
-      "id": 32,
+      "id": 34,
       "title": "Not Everything Needs an LLM",
       "url": "https://newsletter.posthog.com/p/decision-models",
       "source": "Hacker News",
       "category": "news",
       "date": "2026-11-17T18:16:18.000Z",
-      "summary": "187 points, 75 comments",
+      "summary": "188 points, 75 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50535740",
       "tags": []
     },
     {
-      "id": 33,
+      "id": 35,
       "title": "Introducing GPT-6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "source": "OpenAI",
@@ -386,7 +408,7 @@
       "tags": []
     },
     {
-      "id": 34,
+      "id": 36,
       "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
       "url": "https://github.com/RunanywhereAI/trnrt",
       "source": "Hacker News",
@@ -400,20 +422,20 @@
       ]
     },
     {
-      "id": 35,
+      "id": 37,
       "title": "sensenova/SenseNova-Loop-9B",
       "url": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-17T10:16:41.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 1745 downloads, 434 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 1745 downloads, 458 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 36,
+      "id": 38,
       "title": "Introducing ChatGPT for Sales",
       "url": "https://openai.com/index/introducing-chatgpt-for-sales",
       "source": "OpenAI",
@@ -423,33 +445,33 @@
       "tags": []
     },
     {
-      "id": 37,
+      "id": 39,
       "title": "tencent/Hy4-flash",
       "url": "https://huggingface.co/tencent/Hy4-flash",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-17T03:44:46.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 5588 downloads, 503 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 5588 downloads, 540 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 38,
+      "id": 40,
       "title": "thinkingmachines/Inkling-2-Mini",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-17T00:26:57.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 7944 downloads, 1347 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 7944 downloads, 2668 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 39,
+      "id": 41,
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "source": "OpenAI",
@@ -459,7 +481,7 @@
       "tags": []
     },
     {
-      "id": 40,
+      "id": 42,
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
@@ -471,7 +493,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": 43,
       "title": "Introducing OpenAI for Chile",
       "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
@@ -481,33 +503,33 @@
       "tags": []
     },
     {
-      "id": 42,
+      "id": 44,
       "title": "apple/FastFrames-S",
       "url": "https://huggingface.co/apple/FastFrames-S",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-16T17:21:25.000Z",
-      "summary": "New model on Hugging Face · text-to-video. 0 downloads, 94 likes.",
+      "summary": "New model on Hugging Face · text-to-video. 0 downloads, 124 likes.",
       "tags": [
         "text to video",
         "new-model"
       ]
     },
     {
-      "id": 43,
+      "id": 45,
       "title": "apple/FastFrames-L",
       "url": "https://huggingface.co/apple/FastFrames-L",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-16T17:21:04.000Z",
-      "summary": "New model on Hugging Face · text-to-video. 0 downloads, 458 likes.",
+      "summary": "New model on Hugging Face · text-to-video. 0 downloads, 490 likes.",
       "tags": [
         "text to video",
         "new-model"
       ]
     },
     {
-      "id": 44,
+      "id": 46,
       "title": "Broadening access to AI for scientists",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI",
@@ -517,7 +539,7 @@
       "tags": []
     },
     {
-      "id": 45,
+      "id": 47,
       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
       "url": "https://openai.com/index/strengthening-online-child-safety",
       "source": "OpenAI",
@@ -527,31 +549,19 @@
       "tags": []
     },
     {
-      "id": 46,
+      "id": 48,
       "title": "AngelSlim/Hy4-flash-GGUF",
       "url": "https://huggingface.co/AngelSlim/Hy4-flash-GGUF",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-16T14:28:43.000Z",
-      "summary": "New model on Hugging Face. 94791 downloads, 103 likes.",
+      "summary": "New model on Hugging Face. 94791 downloads, 131 likes.",
       "tags": [
         "new-model"
       ]
     },
     {
-      "id": 47,
-      "title": "harness-hub/Qwen3.8-27B-pi-adapted-GGUF",
-      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted-GGUF",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-11-16T12:25:28.000Z",
-      "summary": "New model on Hugging Face. 5483 downloads, 67 likes.",
-      "tags": [
-        "new-model"
-      ]
-    },
-    {
-      "id": 48,
+      "id": 49,
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "url": "https://openai.com/index/science-at-the-frontier",
       "source": "OpenAI",
@@ -561,7 +571,7 @@
       "tags": []
     },
     {
-      "id": 49,
+      "id": 50,
       "title": "How Revolut raises ambition without lowering the bar",
       "url": "https://openai.com/business/customer-stories/revolut",
       "source": "OpenAI",
@@ -571,7 +581,7 @@
       "tags": []
     },
     {
-      "id": 50,
+      "id": 51,
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "source": "OpenAI",
@@ -581,20 +591,20 @@
       "tags": []
     },
     {
-      "id": 51,
+      "id": 52,
       "title": "harness-hub/Qwen3.8-27B-opencode-adapted",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-opencode-adapted",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-16T08:33:31.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 578 downloads, 142 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 578 downloads, 180 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 52,
+      "id": 53,
       "title": "Our first phase of embedded assessments",
       "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
       "source": "OpenAI",
@@ -606,26 +616,13 @@
       ]
     },
     {
-      "id": 53,
-      "title": "harness-hub/Qwen3.8-27B-hermes-adapted",
-      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-hermes-adapted",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-11-16T06:52:42.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 219 downloads, 54 likes.",
-      "tags": [
-        "image text to text",
-        "new-model"
-      ]
-    },
-    {
       "id": 54,
       "title": "harness-hub/Qwen3.8-27B-pi-adapted",
       "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-16T06:52:31.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 2383 downloads, 818 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 2383 downloads, 931 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -706,63 +703,63 @@
     },
     {
       "id": 62,
-      "title": "internlm/Sage-S2.1-Flash",
-      "url": "https://huggingface.co/internlm/Sage-S2.1-Flash",
+      "title": "Comfy-Org/PAN2",
+      "url": "https://huggingface.co/Comfy-Org/PAN2",
       "source": "Hugging Face Models",
       "category": "model",
-      "date": "2026-11-15T02:34:59.000Z",
-      "summary": "New model on Hugging Face. 1201 downloads, 193 likes.",
+      "date": "2026-11-15T10:42:40.000Z",
+      "summary": "New model on Hugging Face · text-to-video. 19501 downloads, 52 likes.",
       "tags": [
+        "text to video",
         "new-model"
       ]
     },
     {
       "id": 63,
+      "title": "internlm/Sage-S2.1-Flash",
+      "url": "https://huggingface.co/internlm/Sage-S2.1-Flash",
+      "source": "Hugging Face Models",
+      "category": "model",
+      "date": "2026-11-15T02:34:59.000Z",
+      "summary": "New model on Hugging Face. 1201 downloads, 231 likes.",
+      "tags": [
+        "new-model"
+      ]
+    },
+    {
+      "id": 64,
       "title": "n4ze3m/tiny-voca",
       "url": "https://huggingface.co/n4ze3m/tiny-voca",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-14T15:46:27.000Z",
-      "summary": "New model on Hugging Face · text-to-speech. 9323 downloads, 342 likes.",
+      "summary": "New model on Hugging Face · text-to-speech. 9323 downloads, 373 likes.",
       "tags": [
         "text to speech",
         "new-model"
       ]
     },
     {
-      "id": 64,
+      "id": 65,
       "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
       "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
       "source": "Hacker News",
       "category": "news",
       "date": "2026-11-14T14:09:25.000Z",
-      "summary": "149 points, 73 comments",
+      "summary": "150 points, 73 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50497155",
       "tags": [
         "inference"
       ]
     },
     {
-      "id": 65,
+      "id": 66,
       "title": "KORMo-VL/KORMo-Web-11B",
       "url": "https://huggingface.co/KORMo-VL/KORMo-Web-11B",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-14T11:23:13.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 995 downloads, 170 likes.",
-      "tags": [
-        "image text to text",
-        "new-model"
-      ]
-    },
-    {
-      "id": 66,
-      "title": "KORMo-VL/KORMo-Web-4B",
-      "url": "https://huggingface.co/KORMo-VL/KORMo-Web-4B",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-11-14T11:22:47.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 594 downloads, 68 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 995 downloads, 200 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -770,27 +767,27 @@
     },
     {
       "id": 67,
-      "title": "inworld/voice-isolator",
-      "url": "https://huggingface.co/inworld/voice-isolator",
+      "title": "akhaliq/MiniMax-H3-Image-Character-Swap",
+      "url": "https://huggingface.co/akhaliq/MiniMax-H3-Image-Character-Swap",
       "source": "Hugging Face Models",
       "category": "model",
-      "date": "2026-11-14T02:14:35.000Z",
-      "summary": "New model on Hugging Face · audio-to-audio. 0 downloads, 459 likes.",
+      "date": "2026-11-14T09:55:49.000Z",
+      "summary": "New model on Hugging Face · image-to-image. 365 downloads, 194 likes.",
       "tags": [
-        "audio to audio",
+        "image to image",
         "new-model"
       ]
     },
     {
       "id": 68,
-      "title": "inworld/sava",
-      "url": "https://huggingface.co/inworld/sava",
+      "title": "inworld/voice-isolator",
+      "url": "https://huggingface.co/inworld/voice-isolator",
       "source": "Hugging Face Models",
       "category": "model",
-      "date": "2026-11-14T02:13:41.000Z",
-      "summary": "New model on Hugging Face · voice-activity-detection. 0 downloads, 73 likes.",
+      "date": "2026-11-14T02:14:35.000Z",
+      "summary": "New model on Hugging Face · audio-to-audio. 0 downloads, 506 likes.",
       "tags": [
-        "voice activity detection",
+        "audio to audio",
         "new-model"
       ]
     },
@@ -854,7 +851,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-13T02:45:33.000Z",
-      "summary": "New model on Hugging Face. 3031 downloads, 353 likes.",
+      "summary": "New model on Hugging Face. 3031 downloads, 383 likes.",
       "tags": [
         "new-model"
       ]
@@ -874,19 +871,6 @@
     },
     {
       "id": 76,
-      "title": "Cloudflare/clairic-flash",
-      "url": "https://huggingface.co/Cloudflare/clairic-flash",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-11-12T21:38:10.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 523 downloads, 66 likes.",
-      "tags": [
-        "image text to text",
-        "new-model"
-      ]
-    },
-    {
-      "id": 77,
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI",
@@ -895,6 +879,18 @@
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "tags": [
         "agents"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF",
+      "url": "https://huggingface.co/mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF",
+      "source": "Hugging Face Models",
+      "category": "model",
+      "date": "2026-11-12T19:06:12.000Z",
+      "summary": "New model on Hugging Face. 1021234 downloads, 220 likes.",
+      "tags": [
+        "new-model"
       ]
     },
     {
@@ -957,7 +953,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-12T11:05:59.000Z",
-      "summary": "New model on Hugging Face · audio-to-audio. 8120 downloads, 815 likes.",
+      "summary": "New model on Hugging Face · audio-to-audio. 8120 downloads, 842 likes.",
       "tags": [
         "audio to audio",
         "new-model"
@@ -975,6 +971,19 @@
     },
     {
       "id": 85,
+      "title": "Lakonik/pi-H3",
+      "url": "https://huggingface.co/Lakonik/pi-H3",
+      "source": "Hugging Face Models",
+      "category": "model",
+      "date": "2026-11-12T03:39:03.000Z",
+      "summary": "New model on Hugging Face · image-text-to-video. 0 downloads, 62 likes.",
+      "tags": [
+        "image text to video",
+        "new-model"
+      ]
+    },
+    {
+      "id": 86,
       "title": "Supporting research on AI and children’s safety",
       "url": "https://openai.com/index/children-first-declaration",
       "source": "OpenAI",
@@ -986,7 +995,7 @@
       ]
     },
     {
-      "id": 86,
+      "id": 87,
       "title": "ChatGPT Ads increases its market presence in 44 countries",
       "url": "https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence",
       "source": "OpenAI",
@@ -996,7 +1005,7 @@
       "tags": []
     },
     {
-      "id": 87,
+      "id": 88,
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI",
@@ -1006,7 +1015,20 @@
       "tags": []
     },
     {
-      "id": 88,
+      "id": 89,
+      "title": "nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
+      "url": "https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
+      "source": "Hugging Face Models",
+      "category": "model",
+      "date": "2026-11-11T20:23:07.000Z",
+      "summary": "New model on Hugging Face · text-generation. 1354 downloads, 159 likes.",
+      "tags": [
+        "text generation",
+        "new-model"
+      ]
+    },
+    {
+      "id": 90,
       "title": "Gemini Decisions API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "source": "Hacker News",
@@ -1017,7 +1039,7 @@
       "tags": []
     },
     {
-      "id": 89,
+      "id": 91,
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "source": "Google DeepMind",
@@ -1027,20 +1049,20 @@
       "tags": []
     },
     {
-      "id": 90,
+      "id": 92,
       "title": "Edge0/Edge0-145B-NVFP4",
       "url": "https://huggingface.co/Edge0/Edge0-145B-NVFP4",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-11T05:22:51.000Z",
-      "summary": "New model on Hugging Face · text-generation. 88713 downloads, 630 likes.",
+      "summary": "New model on Hugging Face · text-generation. 88713 downloads, 682 likes.",
       "tags": [
         "text generation",
         "new-model"
       ]
     },
     {
-      "id": 91,
+      "id": 93,
       "title": "LLMs Play Zachtronics' TIS-100",
       "url": "https://tis-100.wincon.dev/",
       "source": "Hacker News",
@@ -1051,7 +1073,7 @@
       "tags": []
     },
     {
-      "id": 92,
+      "id": 94,
       "title": "Apple has new Mac app coming to make running local AI models easy",
       "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
       "source": "Hacker News",
@@ -1062,7 +1084,7 @@
       "tags": []
     },
     {
-      "id": 93,
+      "id": 95,
       "title": "Gemini 4 Carbon is now available",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
       "source": "Hacker News",
@@ -1073,7 +1095,7 @@
       "tags": []
     },
     {
-      "id": 94,
+      "id": 96,
       "title": "Gemini 4 Carbon is now available",
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
       "source": "Google DeepMind",
@@ -1083,20 +1105,20 @@
       "tags": []
     },
     {
-      "id": 95,
+      "id": 97,
       "title": "briaai/RMBG-3.0",
       "url": "https://huggingface.co/briaai/RMBG-3.0",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-10T15:41:35.000Z",
-      "summary": "New model on Hugging Face · image-segmentation. 199 downloads, 194 likes.",
+      "summary": "New model on Hugging Face · image-segmentation. 199 downloads, 239 likes.",
       "tags": [
         "image segmentation",
         "new-model"
       ]
     },
     {
-      "id": 96,
+      "id": 98,
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
       "source": "Google DeepMind",
@@ -1106,7 +1128,7 @@
       "tags": []
     },
     {
-      "id": 97,
+      "id": 99,
       "title": "Opening the datasets behind our AI weather models",
       "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
       "source": "Google DeepMind",
@@ -1118,20 +1140,20 @@
       ]
     },
     {
-      "id": 98,
+      "id": 100,
       "title": "thejagstudio/tessera-small",
       "url": "https://huggingface.co/thejagstudio/tessera-small",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-09T22:42:57.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 0 downloads, 118 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 0 downloads, 145 likes.",
       "tags": [
         "text to image",
         "new-model"
       ]
     },
     {
-      "id": 99,
+      "id": 101,
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
       "source": "Google DeepMind",
@@ -1144,7 +1166,7 @@
       ]
     },
     {
-      "id": 100,
+      "id": 102,
       "title": "Google Gemini routes personal Drive files and emails to human annotators",
       "url": "https://github.com/thisisme6598/gemini_files/",
       "source": "Hacker News",
@@ -1155,7 +1177,7 @@
       "tags": []
     },
     {
-      "id": 101,
+      "id": 103,
       "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
       "url": "https://github.com/samir-sarwar/samir-vllm",
       "source": "Hacker News",
@@ -1168,33 +1190,33 @@
       ]
     },
     {
-      "id": 102,
+      "id": 104,
       "title": "Zyphra/ZONOS3-Mini",
       "url": "https://huggingface.co/Zyphra/ZONOS3-Mini",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-09T05:03:57.000Z",
-      "summary": "New model on Hugging Face · text-to-speech. 154251 downloads, 545 likes.",
+      "summary": "New model on Hugging Face · text-to-speech. 154251 downloads, 564 likes.",
       "tags": [
         "text to speech",
         "new-model"
       ]
     },
     {
-      "id": 103,
+      "id": 105,
       "title": "Comfy-Org/MiniMax-H3-Image",
       "url": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-08T20:37:23.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 3648926 downloads, 630 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 3648926 downloads, 670 likes.",
       "tags": [
         "text to image",
         "new-model"
       ]
     },
     {
-      "id": 104,
+      "id": 106,
       "title": "OpenAI raises $11B at a $1.25T valuation",
       "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
       "source": "Hacker News",
@@ -1205,7 +1227,7 @@
       "tags": []
     },
     {
-      "id": 105,
+      "id": 107,
       "title": "Why I will not be using LLMs in my coding",
       "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
       "source": "Hacker News",
@@ -1216,7 +1238,7 @@
       "tags": []
     },
     {
-      "id": 106,
+      "id": 108,
       "title": "Memorilla: Latent Semantic Memory for LLMs",
       "url": "https://arxiv.org/abs/2610.21375",
       "source": "Hacker News",
@@ -1227,7 +1249,7 @@
       "tags": []
     },
     {
-      "id": 107,
+      "id": 109,
       "title": "Gemini Omni 1.2 Flash",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
       "source": "Hacker News",
@@ -1238,7 +1260,7 @@
       "tags": []
     },
     {
-      "id": 108,
+      "id": 110,
       "title": "Closed AI models dominate the price-performance frontier",
       "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
       "source": "Hacker News",
@@ -1249,20 +1271,20 @@
       "tags": []
     },
     {
-      "id": 109,
+      "id": 111,
       "title": "Cactus-Compute/mirage",
       "url": "https://huggingface.co/Cactus-Compute/mirage",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-05T19:01:53.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 56257 downloads, 494 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 56257 downloads, 539 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 110,
+      "id": 112,
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
       "source": "Google DeepMind",
@@ -1272,20 +1294,20 @@
       "tags": []
     },
     {
-      "id": 111,
+      "id": 113,
       "title": "thinkingmachines/Inkling-2-Small",
       "url": "https://huggingface.co/thinkingmachines/Inkling-2-Small",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-04T19:51:05.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 45356 downloads, 597 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 45356 downloads, 626 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 112,
+      "id": 114,
       "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
       "url": "https://www.ricursive.com/ripple",
       "source": "Hacker News",
@@ -1299,7 +1321,7 @@
       ]
     },
     {
-      "id": 113,
+      "id": 115,
       "title": "OpenAI to acquire Pierre Computer Company",
       "url": "https://openai.com/index/openai-to-acquire-pierre/",
       "source": "Hacker News",
@@ -1310,7 +1332,7 @@
       "tags": []
     },
     {
-      "id": 114,
+      "id": 116,
       "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
       "url": "https://uncracked.city",
       "source": "Hacker News",
@@ -1321,7 +1343,7 @@
       "tags": []
     },
     {
-      "id": 115,
+      "id": 117,
       "title": "Agentic cheminformatics with Google Antigravity",
       "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
       "source": "Google DeepMind",
@@ -1333,26 +1355,26 @@
       ]
     },
     {
-      "id": 116,
+      "id": 118,
       "title": "apple/DepthPro2",
       "url": "https://huggingface.co/apple/DepthPro2",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-03T16:55:03.000Z",
-      "summary": "New model on Hugging Face · depth-estimation. 0 downloads, 161 likes.",
+      "summary": "New model on Hugging Face · depth-estimation. 0 downloads, 194 likes.",
       "tags": [
         "depth estimation",
         "new-model"
       ]
     },
     {
-      "id": 117,
+      "id": 119,
       "title": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "url": "https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-03T16:13:25.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 339903 downloads, 702 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 339903 downloads, 731 likes.",
       "tags": [
         "quantization",
         "text to image",
@@ -1360,20 +1382,20 @@
       ]
     },
     {
-      "id": 118,
+      "id": 120,
       "title": "MiniMaxAI/MiniMax-H3-Image",
       "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-03T06:34:36.000Z",
-      "summary": "New model on Hugging Face · text-to-image. 916726 downloads, 1655 likes.",
+      "summary": "New model on Hugging Face · text-to-image. 916726 downloads, 1688 likes.",
       "tags": [
         "text to image",
         "new-model"
       ]
     },
     {
-      "id": 119,
+      "id": 121,
       "title": "Scaling Git at OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai/",
       "source": "Hacker News",
@@ -1384,7 +1406,7 @@
       "tags": []
     },
     {
-      "id": 120,
+      "id": 122,
       "title": "LLMs are not superhuman at reading and writing neural network weights",
       "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
       "source": "Hacker News",
@@ -1395,20 +1417,20 @@
       "tags": []
     },
     {
-      "id": 121,
+      "id": 123,
       "title": "moonshotai/Kimi-K3.1-Pro",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-11-02T04:13:51.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 68001 downloads, 2287 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 68001 downloads, 2334 likes.",
       "tags": [
         "image text to text",
         "new-model"
       ]
     },
     {
-      "id": 122,
+      "id": 124,
       "title": "So I guess everyone uses LLMs to think now",
       "url": "https://eva.ac/blog/llms/",
       "source": "Hacker News",
@@ -1419,7 +1441,7 @@
       "tags": []
     },
     {
-      "id": 123,
+      "id": 125,
       "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
       "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
       "source": "Hacker News",
@@ -1430,7 +1452,7 @@
       "tags": []
     },
     {
-      "id": 124,
+      "id": 126,
       "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
       "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
       "source": "Hacker News",
@@ -1441,18 +1463,7 @@
       "tags": []
     },
     {
-      "id": 125,
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "source": "Hacker News",
-      "category": "news",
-      "date": "2026-10-31T14:29:03.000Z",
-      "summary": "264 points, 137 comments",
-      "discussUrl": "https://news.ycombinator.com/item?id=50316531",
-      "tags": []
-    },
-    {
-      "id": 126,
+      "id": 127,
       "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
       "source": "Hacker News",
@@ -1463,7 +1474,7 @@
       "tags": []
     },
     {
-      "id": 127,
+      "id": 128,
       "title": "OpenAI raises less than half of $30B target",
       "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
       "source": "Hacker News",
@@ -1474,7 +1485,7 @@
       "tags": []
     },
     {
-      "id": 128,
+      "id": 129,
       "title": "Speeding up planning decisions with AI",
       "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
       "source": "Google DeepMind",
@@ -1484,28 +1495,17 @@
       "tags": []
     },
     {
-      "id": 129,
-      "title": "OVHaiLLM/Olala-v1.0-mini-7A1B-GGUF",
-      "url": "https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B-GGUF",
+      "id": 130,
+      "title": "OVHaiLLM/Olala-v1.0-mini-7A1B",
+      "url": "https://huggingface.co/OVHaiLLM/Olala-v1.0-mini-7A1B",
       "source": "Hugging Face Models",
       "category": "model",
-      "date": "2026-10-30T10:36:56.000Z",
-      "summary": "New model on Hugging Face · text-generation. 10321 downloads, 61 likes.",
+      "date": "2026-10-30T10:35:01.000Z",
+      "summary": "New model on Hugging Face · text-generation. 1517 downloads, 178 likes.",
       "tags": [
         "text generation",
         "new-model"
       ]
-    },
-    {
-      "id": 130,
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "source": "Hacker News",
-      "category": "news",
-      "date": "2026-10-29T14:57:55.000Z",
-      "summary": "614 points, 335 comments",
-      "discussUrl": "https://news.ycombinator.com/item?id=50290177",
-      "tags": []
     },
     {
       "id": 131,
@@ -1525,7 +1525,7 @@
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-29T08:29:16.000Z",
-      "summary": "New model on Hugging Face · image-text-to-text. 974 downloads, 127 likes.",
+      "summary": "New model on Hugging Face · image-text-to-text. 974 downloads, 156 likes.",
       "tags": [
         "image text to text",
         "new-model"
@@ -1533,17 +1533,6 @@
     },
     {
       "id": 133,
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-      "source": "Hacker News",
-      "category": "news",
-      "date": "2026-10-29T00:30:37.000Z",
-      "summary": "57 points, 81 comments",
-      "discussUrl": "https://news.ycombinator.com/item?id=50282865",
-      "tags": []
-    },
-    {
-      "id": 134,
       "title": "Gemini 4 Carbon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
       "source": "Hacker News",
@@ -1554,7 +1543,7 @@
       "tags": []
     },
     {
-      "id": 135,
+      "id": 134,
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "source": "Google DeepMind",
@@ -1564,20 +1553,20 @@
       "tags": []
     },
     {
-      "id": 136,
+      "id": 135,
       "title": "speridlabs/idol",
       "url": "https://huggingface.co/speridlabs/idol",
       "source": "Hugging Face Models",
       "category": "model",
       "date": "2026-10-28T15:55:17.000Z",
-      "summary": "New model on Hugging Face · image-to-3d. 39291 downloads, 2453 likes.",
+      "summary": "New model on Hugging Face · image-to-3d. 39291 downloads, 2497 likes.",
       "tags": [
         "image to 3d",
         "new-model"
       ]
     },
     {
-      "id": 137,
+      "id": 136,
       "title": "Genie 4: A new generation of world simulation",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "source": "Google DeepMind",
@@ -1587,7 +1576,7 @@
       "tags": []
     },
     {
-      "id": 138,
+      "id": 137,
       "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
       "source": "Hacker News",
@@ -1598,7 +1587,7 @@
       "tags": []
     },
     {
-      "id": 139,
+      "id": 138,
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
       "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "source": "Hacker News",
@@ -1609,7 +1598,7 @@
       "tags": []
     },
     {
-      "id": 140,
+      "id": 139,
       "title": "OpenAI's agents talked to each other through the CPU Cache",
       "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
       "source": "Hacker News",
@@ -1620,20 +1609,7 @@
       "tags": []
     },
     {
-      "id": 141,
-      "title": "nvidia/Qwen3.8-27B-NVFP4-QAD",
-      "url": "https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4-QAD",
-      "source": "Hugging Face Models",
-      "category": "model",
-      "date": "2026-10-26T21:18:47.000Z",
-      "summary": "New model on Hugging Face · text-generation. 1351 downloads, 63 likes.",
-      "tags": [
-        "text generation",
-        "new-model"
-      ]
-    },
-    {
-      "id": 142,
+      "id": 140,
       "title": "Concerning behavior from a popular open-weight AI model",
       "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
       "source": "Hacker News",
@@ -1646,7 +1622,7 @@
       ]
     },
     {
-      "id": 143,
+      "id": 141,
       "title": "IBM CEO says open weight models are now good and cheap on-prem",
       "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
       "source": "Hacker News",
@@ -1659,18 +1635,18 @@
       ]
     },
     {
-      "id": 144,
+      "id": 142,
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "source": "Hacker News",
       "category": "news",
       "date": "2026-10-25T21:11:31.000Z",
-      "summary": "443 points, 437 comments",
+      "summary": "443 points, 436 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50236102",
       "tags": []
     },
     {
-      "id": 145,
+      "id": 143,
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News",
@@ -1681,7 +1657,7 @@
       "tags": []
     },
     {
-      "id": 146,
+      "id": 144,
       "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
       "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
       "source": "Hacker News",
@@ -1692,7 +1668,20 @@
       "tags": []
     },
     {
-      "id": 147,
+      "id": 145,
+      "title": "LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "source": "Hugging Face Models",
+      "category": "model",
+      "date": "2026-10-23T21:35:42.000Z",
+      "summary": "New model on Hugging Face · text-generation. 135129 downloads, 1863 likes.",
+      "tags": [
+        "text generation",
+        "new-model"
+      ]
+    },
+    {
+      "id": 146,
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
       "source": "Hacker News",
@@ -1703,7 +1692,7 @@
       "tags": []
     },
     {
-      "id": 148,
+      "id": 147,
       "title": "Beyond tree cover: mapping the world’s forest types",
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "source": "Google DeepMind",
@@ -1713,7 +1702,7 @@
       "tags": []
     },
     {
-      "id": 149,
+      "id": 148,
       "title": "OpenAI CLI",
       "url": "https://github.com/openai/openai-cli",
       "source": "Hacker News",
@@ -1724,7 +1713,7 @@
       "tags": []
     },
     {
-      "id": 150,
+      "id": 149,
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
       "source": "Hacker News",
@@ -1732,6 +1721,17 @@
       "date": "2026-10-21T12:53:11.000Z",
       "summary": "326 points, 152 comments",
       "discussUrl": "https://news.ycombinator.com/item?id=50180079",
+      "tags": []
+    },
+    {
+      "id": 150,
+      "title": "The math that OpenAI keeps for itself",
+      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+      "source": "Hacker News",
+      "category": "news",
+      "date": "2026-10-17T19:22:52.000Z",
+      "summary": "54 points, 19 comments",
+      "discussUrl": "https://news.ycombinator.com/item?id=50134211",
       "tags": []
     }
   ]
